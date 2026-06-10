@@ -93,4 +93,3 @@ Unnati Sharma
 
 B.Tech CSE
 
-VIT Bhopal University
